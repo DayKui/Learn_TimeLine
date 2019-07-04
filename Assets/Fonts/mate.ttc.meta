@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: baf2c1ec0f8666e43b112a2d4c80d049
+timeCreated: 1524843664
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DFPOP1W5-GB5
+  fontNames:
+  - DFPOP1W5-GB5
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

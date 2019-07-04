@@ -1,0 +1,55 @@
+
+Sc001_M001_0013_1.png
+size: 2499,2499
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sc001_0002renqun_1
+  rotate: false
+  xy: 1589, 972
+  size: 454, 1525
+  orig: 454, 1525
+  offset: 0, 0
+  index: -1
+Sc001_0002renqun_2
+  rotate: true
+  xy: 2, 60
+  size: 462, 1636
+  orig: 462, 1636
+  offset: 0, 0
+  index: -1
+Sc001_0002renqun_3
+  rotate: true
+  xy: 2, 2071
+  size: 426, 1527
+  orig: 426, 1527
+  offset: 0, 0
+  index: -1
+Sc001_0002renqun_4
+  rotate: true
+  xy: 2, 1643
+  size: 426, 1585
+  orig: 426, 1585
+  offset: 0, 0
+  index: -1
+Sc001_0002renqun_6
+  rotate: false
+  xy: 2045, 898
+  size: 452, 1599
+  orig: 452, 1599
+  offset: 0, 0
+  index: -1
+Sc001_0002renqun_8
+  rotate: true
+  xy: 2, 1215
+  size: 426, 1585
+  orig: 426, 1585
+  offset: 0, 0
+  index: -1
+Sc001_0002renqun_9
+  rotate: true
+  xy: 2, 524
+  size: 446, 1683
+  orig: 446, 1683
+  offset: 0, 0
+  index: -1

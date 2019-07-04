@@ -1,0 +1,76 @@
+
+Sc001_M001_0028.png
+size: 2686,2686
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sc001_M001_00023_u139689226rtt
+  rotate: false
+  xy: 2466, 2604
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: -1
+Sc001_M001_0028hmdtr
+  rotate: false
+  xy: 941, 316
+  size: 733, 972
+  orig: 733, 972
+  offset: 0, 0
+  index: -1
+Sc001_M001_0028hmj1
+  rotate: true
+  xy: 2460, 1297
+  size: 662, 224
+  orig: 662, 224
+  offset: 0, 0
+  index: -1
+Sc001_M001_0028hmj2
+  rotate: false
+  xy: 941, 65
+  size: 353, 249
+  orig: 353, 249
+  offset: 0, 0
+  index: -1
+Sc001_M001_0028hmst
+  rotate: false
+  xy: 2, 38
+  size: 937, 2646
+  orig: 937, 2646
+  offset: 0, 0
+  index: -1
+Sc001_M001_0028hmt
+  rotate: true
+  xy: 2466, 2494
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+Sc001_M001_0028hmt1
+  rotate: false
+  xy: 1676, 114
+  size: 476, 476
+  orig: 476, 476
+  offset: 0, 0
+  index: -1
+Sc001_M001_0028hmtl
+  rotate: true
+  xy: 941, 1961
+  size: 723, 1523
+  orig: 723, 1523
+  offset: 0, 0
+  index: -1
+Sc001_M001_0028hmtou
+  rotate: true
+  xy: 1676, 592
+  size: 696, 858
+  orig: 696, 858
+  offset: 0, 0
+  index: -1
+Sc001_M001_0028hmxur
+  rotate: true
+  xy: 941, 1290
+  size: 669, 1517
+  orig: 669, 1517
+  offset: 0, 0
+  index: -1

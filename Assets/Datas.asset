@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78fa944de7dc7cc40a390b4f43cbe035, type: 3}
+  m_Name: Datas
+  m_EditorClassIdentifier: 
+  configOne:
+  - id: 1
+    chapter: zhang001
+    name1: "\u9047\u89C1\u8857\u5934"
+    name2: "\u53EA\u662F\u56E0\u4E3A\u5728\u4EBA\u7FA4\u4E2D\u591A\u770B\u4E86\u4F60\u4E00\u773C\u2026\u2026"
+  - id: 2
+    chapter: zhang001
+    name1: "\u6843\u8272\u98CE\u4E91"
+    name2: "\u4E00\u79CD\u8BF1\u60D1\uFF0C\u4E24\u5FC3\u4EA4\u6218\uFF0C\u63A8\u8FD8\u662F\u4E0D\u63A8\uFF1F"
+  - id: 3
+    chapter: zhang001
+    name1: "\u51CC\u96EA\u7684\u773C\u795E"
+    name2: "\u5C0F\u9ED1\u5C4B\u4E2D\uFF0C\u5979\u662F\u6700\u9753\u4E3D\u7684\u98CE\u666F\u7EBF\u3002"
+  - id: 4
+    chapter: zhang001
+    name1: "\u66B4\u6253\u5C0F\u9EC4\u6BDB"
+    name2: "\u662F\u6253\u53D1\u65AF\u8482\u82AC"
+  - id: 5
+    chapter: zhang001
+    name1: "\u4E3A\u4EC0\u4E48\u8FD9\u6837\u7EDD\u60C5"
+    name2: "\u5065\u8EAB\u623F\u62C9\u5F00\u59CB\u5361\u4E86"
+  - id: 6
+    chapter: zhang001
+    name1: "\u672A\u6765\u7684\u672A\u77E5"
+    name2: "\u8346\u9632\u9897\u7C92\u6492\u9152\u75AF"
+  - id: 7
+    chapter: zhang001
+    name1: "\u4EBA\u751F\u7684\u5F00\u59CB"
+    name2: 
+  awardContent:
+  - id: 1
+    awardId: 10001
+    name1: "\u5730\u65B9\u5E7F\u4E1C\u7701\u6CD5\u89C4\u800C\u5B9A\u65F6\u5173\u673A\u5F00\u4E2A\u4F1A"
+  - id: 2
+    awardId: 10001
+    name1: "\u5723\u8BDE\u8282\u7C89\u7EA2\u8272\u5730\u65B9"
+  - id: 3
+    awardId: 10001
+    name1: "\u963F\u8428\u5FB7\u5C3D\u5FEB\u53D1\u8D27\u963F\u65AF\u8482\u82AC\u4E3E\u6848\u8BF4\u6CD5"
+  - id: 4
+    awardId: 10002
+    name1: "\u6697\u793A\u5065\u5EB7\u7684\u9632\u62A4\u963F\u65AF\u8482\u82AC\u82B1\u751F\u8C46\u8150"
+  - id: 5
+    awardId: 10002
+    name1: "\u5361\u6B7B\u7684\u53D1\u6325\u963F\u8D3E\u514B\u65AF\u7684\u53D1\u6325\u4E3A\u501F\u53E3\u534E\u76DB\u987F"
+  - id: 6
+    awardId: 10002
+    name1: "\u7231\u795E\u7684\u7BAD\u5F00\u4F1A\u7231\u4E0A\u51E0\u4E2A  "
+  - id: 7
+    awardId: 10002
+    name1: "\u4F4E\u529F\u8017\u7684\u6536\u8D39\u66F4\u6362\u5361\u4EF7\u683C\u52A0\u4E0A\u7684\u5404\u73AF\u8282\u662F\u5927\u6CD5\u5B98"
+  chapterAward:
+  - playId: 100001
+    playName: "\u63A5\u7535\u8BDD"
+    chapterId: 1
+    chapter: zhang001
+    annotation: "\u9047\u89C1\u8857\u5934"
+    awaidId: 10001
+    awardItem: 10
+  - playId: 100002
+    playName: "\u53D1\u65AF\u8482\u82AC"
+    chapterId: 1
+    chapter: zhang001
+    annotation: "\u9047\u89C1\u8857\u5934"
+    awaidId: 10002
+    awardItem: 10
+  - playId: 100003
+    playName: "\u7A0B\u5E8F"
+    chapterId: 1
+    chapter: zhang001
+    annotation: "\u9047\u89C1\u8857\u5934"
+    awaidId: 10003
+    awardItem: 10
+  - playId: 100004
+    playName: "\u53D1\u594B"
+    chapterId: 1
+    chapter: zhang001
+    annotation: "\u9047\u89C1\u8857\u5934"
+    awaidId: 10004
+    awardItem: 10
+  - playId: 100005
+    playName: "\u53D1\u7535\u623F"
+    chapterId: 1
+    chapter: zhang001
+    annotation: "\u9047\u89C1\u8857\u5934"
+    awaidId: 10005
+    awardItem: 10
+  - playId: 100006
+    playName: "\u53D1\u9001\u5230"
+    chapterId: 2
+    chapter: zhang001
+    annotation: "\u672A\u6765\u7684\u672A\u77E5"
+    awaidId: 10006
+    awardItem: 10
+  - playId: 100007
+    playName: "\u53D1"
+    chapterId: 2
+    chapter: zhang001
+    annotation: "\u672A\u6765\u7684\u672A\u77E5"
+    awaidId: 10007
+    awardItem: 10

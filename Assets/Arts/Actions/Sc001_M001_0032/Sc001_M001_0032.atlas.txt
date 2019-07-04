@@ -1,0 +1,20 @@
+
+Sc001_M001_0032.png
+size: 1143,1143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sc001_M001_0032shou
+  rotate: false
+  xy: 2, 110
+  size: 490, 1031
+  orig: 490, 1031
+  offset: 0, 0
+  index: -1
+Sc001_M001_0032tou
+  rotate: true
+  xy: 494, 467
+  size: 674, 647
+  orig: 674, 647
+  offset: 0, 0
+  index: -1

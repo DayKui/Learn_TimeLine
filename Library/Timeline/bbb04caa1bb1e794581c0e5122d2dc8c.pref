@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1890111309, guid: 7668179ede524d6396c8b7d84461ea29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeInFrames: 1
+  timeAreaShownRange: {x: -0.062539086, y: 9.937461}
+  showAudioWaveform: 1
+  trackHeight: 30
+  trackScale: 1
+  playRangeEnabled: 0
+  timeAreaPlayRange: {x: 3.4028235e+38, y: 3.4028235e+38}
+  windowTime: 0
+  m_Keys:
+  - {fileID: 114703559757462460, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114894071190908446, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114805789910992860, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114500248878280550, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114875279604410544, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114742829695029116, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114026571413261598, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114313391354119194, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114125080574266354, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114397479918866358, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114769890933315360, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114262757345200920, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114638884466095492, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114041262387420098, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114003640702098000, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114434373153708834, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114346023718012688, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114007901638672586, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114797149712332388, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114889251176125588, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114372085936206316, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114511387113080026, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114360681292805960, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114718287867505330, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114841007006630428, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114567574059009284, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114083289370003078, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  - {fileID: 114746934479454548, guid: bbb04caa1bb1e794581c0e5122d2dc8c, type: 2}
+  m_Vals:
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100

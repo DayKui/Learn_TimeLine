@@ -1,0 +1,48 @@
+
+Sc001_M001_0013.png
+size: 2140,2140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sc001_M001_0013
+  rotate: false
+  xy: 2, 2
+  size: 1658, 2136
+  orig: 1658, 2136
+  offset: 0, 0
+  index: -1
+Sc001_M001_001389
+  rotate: false
+  xy: 1662, 2040
+  size: 165, 98
+  orig: 165, 98
+  offset: 0, 0
+  index: -1
+Sc001_M001_001390
+  rotate: false
+  xy: 1829, 2077
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+Sc001_M001_001391
+  rotate: false
+  xy: 1662, 1890
+  size: 121, 68
+  orig: 121, 68
+  offset: 0, 0
+  index: -1
+Sc001_M001_001392
+  rotate: false
+  xy: 1662, 1960
+  size: 128, 78
+  orig: 128, 78
+  offset: 0, 0
+  index: -1
+Sc001_M001_001393
+  rotate: false
+  xy: 1662, 1803
+  size: 103, 85
+  orig: 103, 85
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+Sc001_M001_luren.png
+size: 2678,2678
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sc001_M001_lu2
+  rotate: false
+  xy: 1704, 976
+  size: 501, 1700
+  orig: 501, 1700
+  offset: 0, 0
+  index: -1
+Sc001_M001_lu3
+  rotate: true
+  xy: 2, 1168
+  size: 437, 1700
+  orig: 437, 1700
+  offset: 0, 0
+  index: -1
+Sc001_M001_lu4
+  rotate: true
+  xy: 2, 1607
+  size: 411, 1700
+  orig: 411, 1700
+  offset: 0, 0
+  index: -1
+Sc001_M001_lu5
+  rotate: false
+  xy: 2207, 976
+  size: 469, 1700
+  orig: 469, 1700
+  offset: 0, 0
+  index: -1
+Sc001_M001_lu6
+  rotate: true
+  xy: 2, 2350
+  size: 326, 1700
+  orig: 326, 1700
+  offset: 0, 0
+  index: -1
+Sc001_M001_lu7
+  rotate: true
+  xy: 2, 2020
+  size: 328, 1700
+  orig: 328, 1700
+  offset: 0, 0
+  index: -1
+Sc001_M001_lu8
+  rotate: true
+  xy: 2, 626
+  size: 540, 1700
+  orig: 540, 1700
+  offset: 0, 0
+  index: -1
+Sc001_M001_lu9
+  rotate: true
+  xy: 2, 20
+  size: 604, 1700
+  orig: 604, 1700
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+Sc001_M001_0049.png
+size: 1187,1187
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sc001_M001_0049
+  rotate: false
+  xy: 2, 132
+  size: 1183, 1053
+  orig: 1183, 1053
+  offset: 0, 0
+  index: -1

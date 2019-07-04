@@ -1,0 +1,13 @@
+
+Sc001_M001_0030.png
+size: 2665,2665
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sc001_M001_0030
+  rotate: false
+  xy: 2, 2
+  size: 967, 2661
+  orig: 967, 2661
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+Sc001_M001_0014.png
+size: 2310,2310
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sc001_0017gy_bei
+  rotate: false
+  xy: 2, 41
+  size: 516, 773
+  orig: 516, 773
+  offset: 0, 0
+  index: -1
+Sc001_0017gy_kuabao
+  rotate: false
+  xy: 307, 1005
+  size: 200, 318
+  orig: 200, 318
+  offset: 0, 0
+  index: -1
+Sc001_0017gy_kuabaodai
+  rotate: false
+  xy: 845, 8
+  size: 94, 584
+  orig: 94, 584
+  offset: 0, 0
+  index: -1
+Sc001_0017gy_lian
+  rotate: false
+  xy: 2042, 1871
+  size: 254, 437
+  orig: 254, 437
+  offset: 0, 0
+  index: -1
+Sc001_0017gy_qun
+  rotate: false
+  xy: 2, 1325
+  size: 1024, 983
+  orig: 1024, 983
+  offset: 0, 0
+  index: -1
+Sc001_0017gy_toufa
+  rotate: true
+  xy: 1028, 843
+  size: 667, 920
+  orig: 667, 920
+  offset: 0, 0
+  index: -1
+Sc001_0017gy_toufa1
+  rotate: true
+  xy: 1333, 557
+  size: 284, 450
+  orig: 284, 450
+  offset: 0, 0
+  index: -1
+Sc001_0017gy_toufa2
+  rotate: false
+  xy: 2042, 1230
+  size: 236, 639
+  orig: 236, 639
+  offset: 0, 0
+  index: -1
+Sc001_0017gy_xiel
+  rotate: true
+  xy: 1785, 584
+  size: 230, 446
+  orig: 230, 446
+  offset: 0, 0
+  index: -1
+Sc001_0017gy_xier
+  rotate: false
+  xy: 2, 857
+  size: 303, 466
+  orig: 303, 466
+  offset: 0, 0
+  index: -1
+Sc001_0017gy_youdabi
+  rotate: false
+  xy: 1950, 816
+  size: 353, 412
+  orig: 353, 412
+  offset: 0, 0
+  index: -1
+Sc001_0017gy_youdatui
+  rotate: true
+  xy: 1333, 142
+  size: 413, 629
+  orig: 413, 629
+  offset: 0, 0
+  index: -1
+Sc001_0017gy_youxiaobi
+  rotate: false
+  xy: 520, 594
+  size: 496, 729
+  orig: 496, 729
+  offset: 0, 0
+  index: -1
+Sc001_0017gy_youxiaotui
+  rotate: true
+  xy: 1028, 1823
+  size: 485, 1012
+  orig: 485, 1012
+  offset: 0, 0
+  index: -1
+Sc001_0017gy_zuodabi
+  rotate: false
+  xy: 520, 2
+  size: 323, 590
+  orig: 323, 590
+  offset: 0, 0
+  index: -1
+Sc001_0017gy_zuodatui
+  rotate: false
+  xy: 1018, 65
+  size: 313, 749
+  orig: 313, 749
+  offset: 0, 0
+  index: -1
+Sc001_0017gy_zuoxiaobi
+  rotate: false
+  xy: 1964, 279
+  size: 315, 303
+  orig: 315, 303
+  offset: 0, 0
+  index: -1
+Sc001_0017gy_zuoxiaotui
+  rotate: true
+  xy: 1028, 1512
+  size: 309, 974
+  orig: 309, 974
+  offset: 0, 0
+  index: -1

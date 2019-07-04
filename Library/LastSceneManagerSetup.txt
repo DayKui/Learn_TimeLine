@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/GitProjects/Unity-BezierCurves-master/Assets/Bezier Curves/_Scenes/Main.unity
+  isLoaded: 1
+  isActive: 1

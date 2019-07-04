@@ -1,0 +1,76 @@
+
+Sc001_M001_00sk.png
+size: 3139,3139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sc001_M001_00wf21
+  rotate: true
+  xy: 2, 49
+  size: 238, 460
+  orig: 238, 460
+  offset: 0, 0
+  index: -1
+Sc001_M001_00wf22
+  rotate: false
+  xy: 2197, 2253
+  size: 266, 423
+  orig: 266, 423
+  offset: 0, 0
+  index: -1
+Sc001_M001_00wf23
+  rotate: true
+  xy: 1678, 2
+  size: 1558, 1275
+  orig: 1558, 1275
+  offset: 0, 0
+  index: -1
+Sc001_M001_00wf24
+  rotate: false
+  xy: 2197, 2678
+  size: 252, 459
+  orig: 252, 459
+  offset: 0, 0
+  index: -1
+Sc001_M001_00wf25
+  rotate: false
+  xy: 2451, 2744
+  size: 305, 393
+  orig: 305, 393
+  offset: 0, 0
+  index: -1
+Sc001_M001_00wf26
+  rotate: false
+  xy: 2, 289
+  size: 1674, 1271
+  orig: 1674, 1271
+  offset: 0, 0
+  index: -1
+Sc001_M001_00wf27
+  rotate: false
+  xy: 464, 213
+  size: 144, 74
+  orig: 144, 74
+  offset: 0, 0
+  index: -1
+Sc001_M001_00wf28
+  rotate: false
+  xy: 2758, 3077
+  size: 115, 60
+  orig: 115, 60
+  offset: 0, 0
+  index: -1
+Sc001_M001_00wf29
+  rotate: false
+  xy: 2197, 2189
+  size: 112, 62
+  orig: 112, 62
+  offset: 0, 0
+  index: -1
+Sc001_M001_00wf30
+  rotate: false
+  xy: 2, 1562
+  size: 2193, 1575
+  orig: 2193, 1575
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,244 @@
+
+Sc001_M001_0037.png
+size: 3214,3214
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sc001_0003gy_biyan
+  rotate: false
+  xy: 3124, 3017
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_bozi
+  rotate: false
+  xy: 2955, 1918
+  size: 250, 288
+  orig: 250, 288
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_bozixian
+  rotate: false
+  xy: 3124, 3074
+  size: 71, 138
+  orig: 71, 138
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_buxiong
+  rotate: false
+  xy: 1131, 910
+  size: 159, 185
+  orig: 159, 185
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_koudai
+  rotate: true
+  xy: 2955, 2208
+  size: 203, 257
+  orig: 203, 257
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_kua
+  rotate: true
+  xy: 2906, 627
+  size: 456, 266
+  orig: 456, 266
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_tou
+  rotate: false
+  xy: 1531, 13
+  size: 325, 345
+  orig: 325, 345
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_toufa1
+  rotate: true
+  xy: 1858, 16
+  size: 342, 222
+  orig: 342, 222
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_xiong
+  rotate: true
+  xy: 1968, 1085
+  size: 518, 1237
+  orig: 518, 1237
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_youdatui
+  rotate: false
+  xy: 1131, 25
+  size: 398, 883
+  orig: 398, 883
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_youjiao
+  rotate: true
+  xy: 2582, 556
+  size: 527, 322
+  orig: 527, 322
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_youshangbi
+  rotate: true
+  xy: 2906, 385
+  size: 240, 263
+  orig: 240, 263
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_youshou
+  rotate: false
+  xy: 1968, 492
+  size: 324, 591
+  orig: 324, 591
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_youxiabi
+  rotate: false
+  xy: 2381, 23
+  size: 379, 494
+  orig: 379, 494
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_youxiaotui
+  rotate: true
+  xy: 220, 440
+  size: 304, 871
+  orig: 304, 871
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_zui
+  rotate: false
+  xy: 3124, 2971
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_zuodatui
+  rotate: true
+  xy: 220, 746
+  size: 349, 909
+  orig: 349, 909
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_zuojiao
+  rotate: true
+  xy: 2082, 6
+  size: 484, 297
+  orig: 484, 297
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_zuoshangbi
+  rotate: true
+  xy: 502, 176
+  size: 262, 593
+  orig: 262, 593
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_zuoshangbi1
+  rotate: true
+  xy: 2294, 519
+  size: 564, 286
+  orig: 564, 286
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_zuoshou
+  rotate: false
+  xy: 2, 5
+  size: 216, 1083
+  orig: 216, 1083
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_zuoshou1
+  rotate: false
+  xy: 2762, 125
+  size: 203, 258
+  orig: 203, 258
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_zuoshou2
+  rotate: false
+  xy: 2967, 157
+  size: 232, 226
+  orig: 232, 226
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_zuoxiabi
+  rotate: false
+  xy: 1597, 1920
+  size: 458, 140
+  orig: 458, 140
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_zuoxiabi1
+  rotate: true
+  xy: 220, 36
+  size: 402, 280
+  orig: 402, 280
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_zuoxiaotui
+  rotate: false
+  xy: 1301, 1090
+  size: 290, 783
+  orig: 290, 783
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_zuoxiast1
+  rotate: false
+  xy: 2, 1097
+  size: 1297, 776
+  orig: 1297, 776
+  offset: 0, 0
+  index: -1
+Sc001_0003gy_zuoxiast2
+  rotate: false
+  xy: 2, 2268
+  size: 1616, 944
+  orig: 1616, 944
+  offset: 0, 0
+  index: -1
+Sc001_0003renqun_1
+  rotate: true
+  xy: 1620, 2062
+  size: 349, 1333
+  orig: 349, 1333
+  offset: 0, 0
+  index: -1
+Sc001_0003renqun_2
+  rotate: true
+  xy: 1597, 1605
+  size: 311, 1593
+  orig: 311, 1593
+  offset: 0, 0
+  index: -1
+Sc001_0003renqun_3
+  rotate: false
+  xy: 1593, 360
+  size: 373, 1243
+  orig: 373, 1243
+  offset: 0, 0
+  index: -1
+Sc001_0003renqun_4
+  rotate: true
+  xy: 1620, 2413
+  size: 419, 1478
+  orig: 419, 1478
+  offset: 0, 0
+  index: -1
+Sc001_0003renqun_5
+  rotate: true
+  xy: 2, 1875
+  size: 391, 1593
+  orig: 391, 1593
+  offset: 0, 0
+  index: -1
+Sc001_0003renqun_6
+  rotate: true
+  xy: 1620, 2834
+  size: 378, 1502
+  orig: 378, 1502
+  offset: 0, 0
+  index: -1
