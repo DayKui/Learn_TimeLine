@@ -1,0 +1,2 @@
+# Learn_TimeLine
+用TimeLine做的一个2D剧情游戏，共两个章节，实现TimeLine与事件的交互
